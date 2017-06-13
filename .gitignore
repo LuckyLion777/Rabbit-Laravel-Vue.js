@@ -1,0 +1,22 @@
+Homestead.yaml
+Homestead.json
+.env
+/.idea
+.DS_store
+node_modules
+public/media/*
+public/img
+public/js
+public/css
+public/fonts
+docker/data
+/docker-compose-dev.yml
+<<<<<<< HEAD
+=======
+db_dump/
+>>>>>>> gik
+
+/storage/fonts
+
+# Framework
+/vendor
